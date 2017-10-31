@@ -1,0 +1,28 @@
+{
+  "name": "Eat-da-Burger",
+  "version": "1.0.0",
+  "description": "burger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirabakhsh/Eat-da-Burger.git"
+  },
+  "author": "Chris Walden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirabakhsh/Eat-da-Burger/issues"
+  },
+  "homepage": "https://github.com/hirabakhsh/Eat-da-Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bulma": "^0.6.0",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
